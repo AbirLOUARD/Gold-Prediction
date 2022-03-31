@@ -1,4 +1,4 @@
-# GoldPrediction
+# Gold's Prediction
 
 ## Table of contents
 
@@ -16,7 +16,7 @@ Dataset = https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 ## Technologies
 
 Project created with:
-Python 3.7
+Google Colab
 
 ## How To Use
 
